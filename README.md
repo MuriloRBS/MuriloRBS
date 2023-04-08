@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, eu sou Murilo 👋
 
-<!--
-**MuriloRBS/MuriloRBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando desenvolvimento Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estatísticas
+<a>![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=MuriloRBS&show_icons=true&count_private=true&bg_color=000000&title_color=892ab5&text_color=c9d1d9&icon_color=892ab5)</a>
+
+
+## Linguagens mais usadas
+
+<a>![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRBS&layout=compact&bg_color=000000&title_color=892ab5&text_color=c9d1d9&icon_color=892ab5)</a>
+
+## Projetos em destaque
+
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRBS&repo=desafio_cursoBI&bg_color=000000&title_color=892ab5&text_color=c9d1d9&icon_color=892ab5)](https://github.com/MuriloRBS/desafio_cursoBI)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRBS&repo=Projeto-GoodBrowserGames&bg_color=000000&title_color=892ab5&text_color=c9d1d9&icon_color=892ab5)](https://github.com/MuriloRBS/Projeto-GoodBrowserGames)
+
+
+![wessker](https://user-images.githubusercontent.com/80229707/230746865-aa116daa-8b0e-4f57-a948-33e28dd867de.gif)
