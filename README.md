@@ -15,6 +15,3 @@
 
 [![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRBS&repo=desafio_cursoBI&bg_color=000000&title_color=892ab5&text_color=c9d1d9&icon_color=892ab5)](https://github.com/MuriloRBS/desafio_cursoBI)
 [![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=MuriloRBS&repo=Projeto-GoodBrowserGames&bg_color=000000&title_color=892ab5&text_color=c9d1d9&icon_color=892ab5)](https://github.com/MuriloRBS/Projeto-GoodBrowserGames)
-
-
-![wessker](https://user-images.githubusercontent.com/80229707/230746865-aa116daa-8b0e-4f57-a948-33e28dd867de.gif)
